@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In my pursuit of purchasing a second hand Porsche for a European summer road trip,
+I've built this app to achieve the following:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1.  Combine available cars from eBay, AutoTrader and other sites.
+2.  Give each Porsche a score based on mileage, price and age.
